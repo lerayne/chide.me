@@ -1,0 +1,23 @@
+{
+  "name": "chide.me",
+  "version": "0.0.1",
+  "homepage": "http://chide.me",
+  "authors": [
+    "Michael Yegorov <lerayne@gmail.com>"
+  ],
+  "description": "social service for criticizm and confessions",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2",
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1"
+  }
+}
